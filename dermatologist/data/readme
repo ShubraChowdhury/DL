@@ -1,2 +1,8 @@
+Download
+https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/skin-cancer/train.zip
+https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/skin-cancer/valid.zip
+https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/skin-cancer/test.zip
+
+
 unzip the test, train and valid and store it directly under data 
 Example data/test  , data/train and data/valid
