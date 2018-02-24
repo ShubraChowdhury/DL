@@ -1,0 +1,2 @@
+unzip the test, train and valid and store it directly under data 
+Example data/test  , data/train and data/valid
