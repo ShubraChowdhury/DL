@@ -1,0 +1,3 @@
+download files from https://github.com/machrisaa/tensorflow-vgg and unzip under tensorflow_vgg
+
+example : tensorflow_vgg/test_vgg16.py  etc
